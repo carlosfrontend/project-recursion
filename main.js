@@ -1,7 +1,7 @@
 import fibs from "./Assigment1/fibs.js";
 import fibsRec from "./Assigment1/fibsRec.js";
 
-const num = 10; // Change this numer for test it
+const num = 10; // Change this number for test it
 
 const fibsIterationResult = fibs(num);
 const fibsRecursionResult = fibsRec(num);

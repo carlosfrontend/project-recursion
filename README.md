@@ -22,3 +22,20 @@
 
    2. It may be helpful to check out the background videos again if you don’t 
     quite understand what should be going on.
+
+
+### *To see this working you can clone this repository with:
+
+```$ git clone https://github.com/carlosfrontend/project-recursion.git``` 
+
+### And then:
+
+``` $ cd project-recursion ```
+
+``project-recursion$`` ```  npm install ```
+
+### Open the folder with your code editor
+
+ ... and do ```npm start``` in the terminal
+
+ ### Feel free to change the values ​​of the variables in the ```main.js``` file to see the results by the console.
