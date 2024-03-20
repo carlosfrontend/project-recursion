@@ -1,0 +1,16 @@
+{
+  "name": "project-recursion",
+  "version": "1.0.0",
+  "description": "## Assignment 1",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start":" npx nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
